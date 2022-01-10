@@ -13,7 +13,7 @@ export default function NavigationBar() {
             </div>
             <div className="navkomp">
             <button className="back" onClick={() => navigate(-1)}>Back</button>
-                {/*<button id="darker" onClick={() => navigate(-1)}>Darker</button>*/}
+                {/*<div><button id="darker" onClick={() => navigate(-1)}>Darker</button></div>*/}
                 {/*<button id="lighter" onClick={() => navigate(-1)}>Lighter</button>*/}
                 {/*<button id="darkmode" onClick={() => navigate(-1)}>Darkmode</button>*/}
                 {/*<button id="lightmode" onClick={() => navigate(-1)}>Lightmode</button>*/}
